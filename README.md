@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_Luis
+# SC\_302\_Documentacion\_MN\_Luis
+
+
+
+Esta es mi primera practica con GitHub
+
